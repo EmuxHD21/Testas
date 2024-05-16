@@ -1,0 +1,33 @@
+.box{
+    border: solid 5px black;
+    background-color: antiquewhite;
+    width: 60%;
+    margin: auto;
+    height: 1000px;
+    border-radius: 20px;
+
+}
+.box h1{
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+.text{
+   text-align: center;
+
+}
+#add{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    border-radius: 30px;
+}
+ul{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+#input{
+    font-size: 30px;
+}
